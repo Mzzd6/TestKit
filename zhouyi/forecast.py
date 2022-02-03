@@ -1,3 +1,7 @@
+#用法：pyton forecast.py
+#会自动随机生成6爻
+
+
 from random import randint
 
 
